@@ -8,6 +8,7 @@ Make my trip booking app,
 Netflix clone,ya YouTube clone  Instagram clone,
 chat app, 
 e-commerce koi sa bhi,
+GitHub clone
 to-do-list app 🔥
 
 ''Jwt token''
